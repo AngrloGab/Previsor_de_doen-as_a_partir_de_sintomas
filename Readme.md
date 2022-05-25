@@ -1,11 +1,12 @@
 <h1>Previsor de doenças através dos sintomas</h1>
 
->Status: Concluded/Concluído ⚠
+>Status: Concluded/Concluído 
 
 ### Trata-se de um estudo de Data-science utilizando Machine learning e Streamlit para criar uma aplicação que prevê .
 
 ## Base de dados em análise
 + link para o arquivo fonte no Kagle: https://www.kaggle.com/datasets/itachi9604/disease-symptom-description-dataset
++ link para o aplicativo do streamlit: https://share.streamlit.io/angrlogab/previsor_de_doencas_a_partir_de_sintomas/main/app.py
 
 ## Tecnologias utilizadas:
 + Python
